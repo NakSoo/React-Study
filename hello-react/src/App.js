@@ -1,17 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import JsApp1 from './jsx1';
-import JsApp2 from './jsx2';
-import JsApp3 from './jsx3';
-import JsApp4 from './jsx4';
-import JsApp5 from './jsx5';
-import JsApp6 from './jsx6';
+import JsApp1 from './babel/jsx1';
+import JsApp2 from './babel/jsx2';
+import JsApp3 from './babel/jsx3';
+import JsApp4 from './babel/jsx4';
+import JsApp5 from './babel/jsx5';
+import JsApp6 from './babel/jsx6';
 //import JsApp7 from './jsx7';
-import JsApp8 from './jsx8';
-import JsApp9 from './jsx9';
-import JsApp10 from './jsx10';
-import JsApp11 from './jsx11';
+import JsApp8 from './babel/jsx8';
+import JsApp9 from './babel/jsx9';
+import JsApp10 from './babel/jsx10';
+import JsApp11 from './babel/jsx11';
 
 function App() {
   return (
